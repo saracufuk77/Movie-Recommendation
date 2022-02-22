@@ -1,5 +1,5 @@
 numpy==1.20.3
-pandas==1.4.1
+pandas==1.4.0
 pickleshare==0.7.5
 scikit-surprise==1.1.1
 streamlit==1.5.1
